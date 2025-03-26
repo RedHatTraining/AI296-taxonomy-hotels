@@ -1,0 +1,105 @@
+version: 3
+domain: hospitality
+created_by: m3diterraneo_hotels_team
+seed_examples:
+  - context: |
+      Majorca's tourism industry is highly seasonal, with clear high and low periods that impact hotel operations:
+
+      - **High Season (June - August):** Summer is peak tourist season. Nearly all hotels are open and occupancy rates are at their highest with many hotels fully booked. Families on school holidays and sun-seekers from across Europe flock to the island's beaches. Hotels often operate at full staff and may require minimum stay lengths. Rates are highest during these months due to demand.
+      - **Shoulder Seasons (April - May & September - October):** Spring and early fall bring milder weather and a mix of travelers (including cyclists, hikers, and older couples). Demand is moderate: by Easter (often in April) around 80% of hotels are open, rising to full operation by May. In September and October, the crowds soften but the weather remains warm. Hotels may offer special packages or slightly lower rates to attract off-peak travelers during these periods.
+      - **Off-Season (November - March):** The winter period sees a significant drop in tourism. Many resort hotels close for the season, especially in quieter coastal areas. It's common that only ~30% of hotels (primarily business and city hotels) remain open in February, gradually increasing to 50% by March. Palma city hotels and a few resorts stay open year-round, targeting local events, business travelers, or long-stay retirees escaping colder climates. During Christmas and New Year's holidays, there is a minor uptick in visitors (e.g. for holiday markets or mild-winter getaways), but overall hotel occupancy in winter is low.
+    questions_and_answers:
+      - question: What defines the high tourist season in the Mediterranean, and how does it affect hotel operations?
+        answer: The high tourist season runs from June to August. During this period, most hotels operate at full capacity with very high occupancy rates, leading to increased demand and premium pricing.
+      - question: How does the shoulder season differ from the high season in terms of tourism and hotel offerings?
+        answer: The shoulder season (April-May and September-October) sees milder weather and diverse guest profiles, such as cyclists and retirees. Hotels offer deals and mid-week specials, catering to different interests like wine tourism and cultural trips.
+      - question: What happens to beach resorts during the off-season, and which hotels remain operational?
+        answer: During the off-season (November-March), many beach resorts close. Urban hotels and some rural properties remain open, targeting locals and business travelers.
+  - context: |
+      The Mediterranean area hosts numerous events and cultural festivals throughout the year, some of which create noticeable spikes in hotel bookings or influence guest preferences:
+
+      - **Semana Santa (Easter, March/April):** Easter week features elaborate religious processions in Palma and other towns. This draws visitors from mainland Spain and abroad interested in witnessing the traditions. City hotels see increased bookings during this period, and many resorts reopen in time to welcome Easter holiday travelers.
+
+      - **Midsummer Night (June 23):** Celebrated with beach bonfires and fireworks during the Night of Midsummer, this festival draws crowds to the beaches on the eve of June 24. Many locals and tourists participate in midnight swims and festivities. Beach resorts around Palma Bay and Alcúdia often experience a surge in last-minute bookings as visitors come to enjoy the seaside celebrations.
+
+      - **Summer Town Festivals (July - August):** Throughout summer, nearly every Mallorcan town has a patron saint festival featuring parades, live music, and fireworks. Notable examples include La Patrona in Pollença (early August) and Sant Agustí in Felanitx (late August). These events can fill up rural hotels and inns near the festivities as domestic tourists and island residents attend and stay overnight.
+
+      - **Harvest & Autumn Events (September - October):** Mallorca's autumn brings agricultural fairs and harvest festivals. For example, the Vineyard Harvest Festival in Binissalem each September celebrates the grape harvest with wine-tastings and even grape-stomping contests. Such events attract wine enthusiasts and boost occupancy in rural hotels and agritourism stays in those regions. Similarly, October's fairs (like the Autumn Fair in Inca) draw weekend visitors.
+
+      - **Winter Festivities (December - January):** In the low season, a few events still attract guests. The Christmas markets in Palma (December) and the Sant Sebastià festival in January (Palma's patron saint, celebrated with city-wide concerts and bonfires) bring a short-lived increase in city hotel bookings. While these winter events don't compare to summer crowds, they do provide incentives for some travelers to visit, and hotels often create special weekend offers around them.
+    questions_and_answers:
+      - question: How does the Sant Joan festival influence hotel bookings in coastal areas?
+        answer: Sant Joan leads to a significant increase in hotel bookings, especially at beach resorts, due to the celebration's popularity and festivities.
+      - question: What makes Festa des Vermar a significant event for rural winery hotels?
+        answer: Festa des Vermar attracts wine enthusiasts, boosting occupancy and interest in rural winery hotels during the harvest season.
+      - question: How does Semana Santa affect bookings in urban and cultural-focused hotels?
+        answer: Semana Santa increases bookings in urban and cultural-focused hotels due to religious processions and cultural events drawing visitors.
+  - context: |
+      Our family-oriented beach resort (located on a sandy bay ideal for kids) focuses on fun, convenience, and safety for guests with children. Popular offerings include:
+
+      - **“Pirate Adventure” Children's Excursion:** A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It's a signature experience frequently promoted at check-in to families.
+    questions_and_answers:
+      - question: What unique activity does the Sunny Shores Resort offer for children, and how is it promoted?
+        answer: The Sunny Shores Resort offers the 'Pirate Adventure Excursion,' a supervised boat trip promoted to families at check-in as a signature activity.
+      - question: How does the Pirate Adventure Excursion enhance the guest experience for families?
+        answer: It provides an engaging and memorable experience for children, encouraging families to stay longer and participate in other activities.
+      - question: What makes the Pirate Adventure Excursion a signature activity at the Sunny Shores Resort?
+        answer: Its unique theme and promotion at check-in make it a standout activity, enhancing the resort's appeal to families.
+  - context: |
+      Our upscale adults-only hotel in Palma caters to couples and business travelers seeking relaxation and urban exploration. Key offerings include:
+
+      - **Spa and Wellness Packages:** The hotel's small spa offers packages combining treatments like massages, facials, and aromatherapy sessions. One signature bundle, the “City Serenity Package” includes a couples massage, access to the rooftop jacuzzi, and two complimentary cocktails at the sky lounge. Such packages are promoted upon check-in and via email to guests who book superior rooms or longer stays.
+    questions_and_answers:
+      - question: What does the City Serenity Package include, and how is it marketed?
+        answer: The package includes a couples massage, rooftop jacuzzi access, and complimentary cocktails, marketed to promote relaxation and romance.
+      - question: How does the City Serenity package cater to adults seeking relaxation?
+        answer: It offers a comprehensive spa experience with massages and jacuzzi access, ideal for adults seeking relaxation and rejuvenation.
+      - question: What makes the City Serenity Package desirable for couples visiting Palma?
+        answer: The package's combination of relaxation and ambiance makes it a desirable choice for couples seeking a luxurious getaway.
+  - context: |
+      Set in the countryside, next to vineyards and olive groves, our rural boutique hotels offer guests an authentic taste of Mallorcan country life. Exclusive offerings at these properties include:
+
+      - **Wine Tastings and Vineyard Tours:** As a hotel with its own winery, the top attraction is the evening wine tasting event. Guests tour the vineyard and cellar with our winemaker, then sample a selection of the estate's wines. The experience is paired with local cheeses, cured meats, and olive oil from nearby farms. It's scheduled several times a week and often bundled into stay packages for food and wine enthusiasts.
+    questions_and_answers:
+      - question: What exclusive experiences are available at the Rural Boutique Hotel's winery?
+        answer: Guests can enjoy vineyard tours and wine tastings, sampling the estate's wines paired with local cheeses and cured meats.
+      - question: How do wine tastings and vineyard tours enhance the guest experience?
+        answer: They provide an authentic and educational experience, allowing guests to connect with the local wine culture and cuisine.
+      - question: What pairings or additional services are offered with wine tastings?
+        answer: Wine tastings are often paired with local cheeses and cured meats, offering a complete and memorable gastronomic experience.
+  - context: |
+      Hotel Details:
+
+      ### 1. Sunny Shores Resort
+      - **Address**: Calle Marítima 123, Palmanova, Majorca, Spain
+      - **Contact**: Phone: +34 971 55 66 77 | Email: info@sunnyshores__resort.com | Website: www.sunnyshores__resort.com
+      - **Opening Dates**: June 1 to August 31
+
+      ### 2. Palma Serenity Hotel
+      - **Address**: Carrer de la Reina 45, Palma de Mallorca, Spain
+      - **Contact**: Phone: +34 971 66 77 88 | Email: info@palmaserinityhotel.com | Website: www.palmaserinityhotel.com
+      - **Opening Dates**: Year-round
+
+      ### 3. Vineyard Vista Boutique Hotel
+      - **Address**: Carretera de Llucmayor 67, Esporles, Majorca, Spain
+      - **Contact**: Phone: +34 971 77 88 99 | Email: info@vineyardvistahotel.com | Website: www.vineyardvistahotel.com
+      - **Opening Dates**: April 15 to October 31
+
+      ### 4. Olive Grove Getaway
+      - **Address**: Calle de Tobarra 22, Llubi, Majorca, Spain
+      - **Contact**: Phone: +34 971 88 99 11 | Email: info@olivegrovegetaway.com | Website: www.olivegrovegetaway.com
+      - **Opening Dates**: Year-round
+    questions_and_answers:
+      - question: What are the addresses and contact details of the Sunny Shores Resort?
+        answer: "The Sunny Shores Resort is located at Calle Marítima 123, Mao, Majorca, Spain. Contact details include Phone: +34 971 55 66 77, Email: info@sunnyshores__resort.com, and Website: www.familybeachresort.com."
+      - question: When are the Vineyard Vista Boutique Hotel and Olive Grove Getaway open, and why?
+        answer: The Vineyard Vista Boutique Hotel is open from April 15 to October 31, aligning with the peak tourism season and harvest period. The Olive Grove Getaway remains open year-round to accommodate varied travel patterns.
+      - question: How do the opening dates of our roural hotels align with seasonal tourism patterns?
+        answer: The opening dates reflect seasonal demand, with the winery hotel operational during the main tourist season and harvest time, while the other rural hotel caters to year-round travelers.
+document_outline: |
+  Information on the M3diterranean Hotel group's seasonal trends, local events, and property-specific guest offerings, including addresses, contact details, and opening/closing dates.
+document:
+  repo: file:///home/jairamir/dev/taxonomy
+  commit: jaime-hotel-scenario
+  patterns:
+    - knowledge/geography/travel/europe/m3diterraneo_hotels/knowledge.md
