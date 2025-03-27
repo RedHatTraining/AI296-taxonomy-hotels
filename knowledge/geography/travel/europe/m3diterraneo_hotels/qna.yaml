@@ -111,7 +111,7 @@ seed_examples:
 document_outline: |
   Information on the M3diterranean Hotel group's seasonal trends, local events, and property-specific guest offerings, including addresses, contact details, and opening/closing dates.
 document:
-  repo: https://github.example.com/jramcast/taxonomy.git
+  repo: https://github.com/jramcast/taxonomy.git
   commit: jaime-hotel-scenario
   patterns:
     - knowledge/geography/travel/europe/m3diterraneo_hotels/knowledge.md
