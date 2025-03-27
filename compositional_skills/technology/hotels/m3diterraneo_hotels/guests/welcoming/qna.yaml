@@ -13,12 +13,11 @@ created_by: m3diterraneo_hotels_team
 
 seed_examples:
   - question: |
-      Generate a welcome message for a couple staying 3 nights at the adults-only city hotel in Palma during spring.
-      Include basic hotel information, offer spa packages and rooftop dining as extras, and any other information of interest
+      Generate a welcome message for a couple staying 3 nights at the adults-only Palma Serenity Boutique Hotel during spring.
     answer: |
       Welcome to Palma!
 
-      We're delighted to host you for your spring getaway at our adults-only city hotel. Your stay includes access to our rooftop lounge with panoramic views of Palma's skyline.
+      We're delighted to host you for your spring getaway at Palma Serenity Boutique Hotel. Your stay includes access to our rooftop lounge with panoramic views of Palma's skyline.
 
       🕒 **Hotel Info**:
       - Check-in: 3:00 PM | Checkout: 12:00 PM
@@ -33,8 +32,7 @@ seed_examples:
       We wish you a relaxing and memorable stay. If there's anything you need, our team is just ready to assist you.
 
   - question: |
-      Write a welcome message for a family with two kids staying five nights at the beach resort in August.
-      Mention kids' activities and the pirate boat excursion, and include restaurant info.
+      Write a welcome message for a family with two kids staying five nights at Sunny Shores Resort in August.
     answer: |
       Welcome to Sunny Shores. We're thrilled to have you with us this summer!
 
@@ -57,9 +55,10 @@ seed_examples:
       We hope that you have a fantastic family holiday! Let us know if we can help with bookings or questions.
 
   - question: |
-      Create a message for a solo traveler staying 2 nights at the rural hotel in October. Offer wine tasting and bike rental, include meal info, and promote the natural environment.
+      Create a message for a solo traveler staying 2 nights at the rural Vineyard Vista Hotel in October. 
+      She is interested in wine tasting, bike rental, and the natural environment.
     answer: |
-      Welcome to our rural retreat in the heart of Mallorca!
+      Welcome to our Vineyard Vista Hotel retreat in the heart of Mallorca!
 
       🍂 October is a beautiful time to explore the island, and we're excited to have you with us for a peaceful two-night escape.
 
@@ -73,14 +72,14 @@ seed_examples:
       - Dinner: 7:00 PM - 10:00 PM
       - Optional farm-to-table dinner: Served at 7:30 PM on the terrace (vegan option available). Reserve before 5:00 PM.
 
-      🏞️  **Nature ideas**:
+      🏞️  **Suggestions for nature lovers**:
       - This time of the year is perfect to enjoy the beach and the sea. Water is still warm at sunset!
       - Rent a car and explore the Serra de Tramuntana, a UNESCO World Heritage area. Car rental options and maps available at reception.
 
       Enjoy the calm, the views, and the wine. Let us know if we can help plan your stay.
 
   - question: |
-      Generate a welcome message for a returning guest couple at the rural hotel in May. Mention loyalty perks and seasonal events.
+      Generate a welcome message for a returning guest couple at the Vineyard Vista Hotel in May. Mention loyalty perks and seasonal events.
     answer: |
       Welcome back to your countryside home in Mallorca!
 
@@ -97,7 +96,7 @@ seed_examples:
       We are very happy to have you back. Let us know if we can personalize anything for you.
 
   - question: |
-      Write a welcome message for a digital nomad staying 1 week at the Palma city hotel in February. Include Wi-Fi info, coworking spaces, and quiet extras.
+      Write a welcome message for a digital nomad staying one week at the Palma Serenity Boutique Hotel in February. Include relevant info and extras.
     answer: |
       Welcome to Palma - your home for a productive and inspiring week on the island!
 
