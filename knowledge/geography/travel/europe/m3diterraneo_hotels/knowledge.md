@@ -75,7 +75,7 @@ Set in the countryside, next to vineyards and olive groves, our Vineyard Vista H
 Exclusive offerings at these properties include:
 
 - **Wine Tastings and Vineyard Tours:** The Vineyard Vista Hotel has its own winery, and the top attraction is the evening wine tasting event. Guests tour the vineyard and cellar with our winemaker, then sample a selection of the estate's wines. The experience is paired with local cheeses, cured meats, and olive oil from nearby farms. It's scheduled several times a week and often bundled into stay packages for food and wine enthusiasts.
-The wine tasking event is held every Friday and Sunday, at 7.30PM, inside the winery.
+The wine tasking is held every Friday and Sunday, at 7.30PM, inside the winery.
 It's a 2-hour event with a 20-guest limit. To ensure a spot, guests should make a reservation in advance at the reception.
 
 
@@ -83,24 +83,35 @@ It's a 2-hour event with a 20-guest limit. To ensure a spot, guests should make 
 Guests can pick two Farm-to-Table modalities: regular and vegan.
 
 - **Outdoor Activities:** To take advantage of the scenic location, the hotels arrange guided nature hikes to nearby trails and cycling tours through the rural landscape (with bike rentals available). These can be booked as add-ons. In spring and fall, when weather is ideal, such activities are popular and are promoted in our pre-arrival emails to guests.
-Our hiking and cycling tours are led by our local partner, **Ramirez Bikes** (email: partners@ramirezbikesmallorca.com),
+Our hiking and cycling tours are led by our local partner, **Ramirez Bikes** (email: partners@ramirezbikesmallorca.example.com),
 The Vineyard Vista Hotel, in particular, is located at the heart of the **Serra de Tramuntana**, a mountain range that shapes the north-west of Mallorca, declared a World Heritage Site by UNESCO in 2011. The Serra offers breathtaking landscapes, cliffs and forests that merge with the sea, and picturesque villages.
 
-- **Workshops and Local Crafts:** The hotel also small-group workshops (for a fee), such as olive oil tasting sessions, traditional Mallorcan cooking classes, or pottery making with a local artisan. These unique activities, available upon request by contacting our workshops department at [workshops@vineyardvistahotelmallorca.com](mailto:workshops@vineyardvistahotelmallorca.com), offer guests the chance to connect with Mallorca's heritage during their stay.
+- **Workshops and Local Crafts:** The hotel also small-group workshops (for a fee), such as olive oil tasting sessions, traditional Mallorcan cooking classes, or pottery making with a local artisan. These unique activities, available upon request by contacting our workshops department at [workshops@vineyardvistahotelmallorca.example.com](mailto:workshops@vineyardvistahotelmallorca.example.com), offer guests the chance to connect with Mallorca's heritage during their stay.
 
 ## Hotel Details
 
-### 1. Sunny Shores Resort
+### Sunny Shores Resort
 - **Address**: Calle Cala Millor 123, Palmanova, Mallorca, Spain
-- **Contact**: Phone: +34 123 11 22 333 | Email: info@sunnyshores__resort.com | Website: www.sunnyshores__resort.com
+- **Contact**: Phone: +34 123 11 22 333 | Email: info@sunnyshoresresort.example.com | Website: www.sunnyshoresresort.example.com
 - **Opening Dates**: Easter to October 31
+- Check-in: 3:00 PM | Checkout: 12:00 PM
+- Pool (and pool bar): open daily from 10:00 AM to 8:00 PM
+- Family Buffet restaurant: Poolside, kid-friendly options available daily. Breakfast: 7:30 AM - 10:30 AM | Dinner: 6:30 PM - 9:30 PM
 
-### 2. Palma Serenity Boutique Hotel
+
+### Palma Serenity Boutique Hotel
 - **Address**: Carrer de la Reina 45, Palma de Mallorca, Spain
-- **Contact**: Phone: +34 971 333 22 11 | Email: info@palmaserinityhotel.com | Website: www.palmaserinityhotel.com
+- **Contact**: Phone: +34 971 333 22 11 | Email: info@palmaserinityhotel.example.com | Website: www.palmaserinityhotel.example.com
 - **Opening Dates**: Year-round
+- Check-in: 3:00 PM | Checkout: 3:00 PM
+- Spa: Floor -1, open daily from 10:00 AM to 8:00 PM
+- Rooftop Bar: Floor 5, open daily from 10:00 AM till midnight
+- "La Despensa" Restaurant & Bar: Ground floor, serving Mallorcan fusion cuisine from 6:30 PM to 10:30 PM
+- Coworking lounge (1st floor). From open 9 AM - 9 PM with complimentary coffee and ergonomic seating.
 
-### 3. Vineyard Vista Hotel
+### Vineyard Vista Hotel
 - **Address**: Carretera de Albacete 67, Esporles, Mallorca, Spain
-- **Contact**: Phone: +34 971 222 22 333 | Email: info@vineyardvistahotel.com | Website: www.vineyardvistahotel.com
+- **Contact**: Phone: +34 971 222 22 333 | Email: info@vineyardvistahotel.example.com | Website: www.vineyardvistahotel.example.com
 - **Opening Dates**: Year-round (excluding February)
+- Check-in: 13:00 PM | Checkout: 12:00 PM
+- Restaurant: ground floor. Next to the cozy lounge area. Breakfast: 8:00 AM - 10:30 AM. Dinner: 7:00 PM - 10:00 PM
