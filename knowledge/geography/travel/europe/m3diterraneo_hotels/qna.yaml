@@ -9,7 +9,7 @@ seed_examples:
       - **Shoulder Seasons (April - May & September - October):** Spring and early fall bring milder weather and a mix of travelers (including cyclists, hikers, and older couples). Demand is moderate: by Easter (often in April) around 80% of hotels are open, rising to full operation by May. In September and October, the crowds soften but the weather remains warm. Hotels may offer special packages or slightly lower rates to attract off-peak travelers during these periods.
       - **Off-Season (November - March):** The winter period sees a significant drop in tourism. Many resort hotels close for the season, especially in quieter coastal areas. It's common that only ~30% of hotels (primarily business and city hotels) remain open in February, gradually increasing to 50% by March. Palma city hotels and a few resorts stay open year-round, targeting local events, business travelers, or long-stay retirees escaping colder climates. During Christmas and New Year's holidays, there is a minor uptick in visitors (e.g. for holiday markets or mild-winter getaways), but overall hotel occupancy in winter is low.
     questions_and_answers:
-      - question: What defines the high tourist season in the Mediterranean, and how does it affect hotel operations?
+      - question: What defines the high tourist season in Mallorca, and how does it affect hotel operations?
         answer: The high tourist season runs from June to August. During this period, most hotels operate at full capacity with very high occupancy rates, leading to increased demand and premium pricing.
       - question: How does the shoulder season differ from the high season in terms of tourism and hotel offerings?
         answer: The shoulder season (April-May and September-October) sees milder weather and diverse guest profiles, such as cyclists and retirees. Hotels offer deals and mid-week specials, catering to different interests like wine tourism and cultural trips.
@@ -75,12 +75,12 @@ seed_examples:
       - **Contact**: Phone: +34 971 55 66 77 | Email: info@sunnyshores__resort.com | Website: www.sunnyshores__resort.com
       - **Opening Dates**: June 1 to August 31
 
-      ### 2. Palma Serenity Hotel
+      ### 2. Palma Serenity Boutique Hotel
       - **Address**: Carrer de la Reina 45, Palma de Mallorca, Spain
       - **Contact**: Phone: +34 971 66 77 88 | Email: info@palmaserinityhotel.com | Website: www.palmaserinityhotel.com
       - **Opening Dates**: Year-round
 
-      ### 3. Vineyard Vista Boutique Hotel
+      ### 3. Vineyard Vista Hotel
       - **Address**: Carretera de Llucmayor 67, Esporles, Majorca, Spain
       - **Contact**: Phone: +34 971 77 88 99 | Email: info@vineyardvistahotel.com | Website: www.vineyardvistahotel.com
       - **Opening Dates**: April 15 to October 31
@@ -92,8 +92,8 @@ seed_examples:
     questions_and_answers:
       - question: What are the addresses and contact details of the Sunny Shores Resort?
         answer: "The Sunny Shores Resort is located at Calle Marítima 123, Palmanova, Majorca, Spain. Contact details include Phone: +34 971 55 66 77, Email: info@sunnyshores__resort.com, and Website: www.familybeachresort.com."
-      - question: When are the Vineyard Vista Boutique Hotel and Olive Grove Getaway open, and why?
-        answer: The Vineyard Vista Boutique Hotel is open from April 15 to October 31, aligning with the peak tourism season and harvest period. The Olive Grove Getaway remains open year-round to accommodate varied travel patterns.
+      - question: When are the Vineyard Vista Hotel and Olive Grove Getaway open, and why?
+        answer: The Vineyard Vista Hotel is open from April 15 to October 31, aligning with the peak tourism season and harvest period. The Olive Grove Getaway remains open year-round to accommodate varied travel patterns.
       - question: How do the opening dates of our roural hotels align with seasonal tourism patterns?
         answer: The opening dates reflect seasonal demand, with the winery hotel operational during the main tourist season and harvest time, while the other rural hotel caters to year-round travelers.
 document_outline: |

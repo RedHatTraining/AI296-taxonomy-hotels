@@ -1,8 +1,8 @@
 version: 3
 task_description: |
   Teach the model how to offer and package special services at "M3diterraneo Hotels", which is a Mediterranean-based hotel group.
-  It covers offering family-oriented upsells at a beach resort (Sunny Shores Resort), creating spa packages at an adults-only city hotel (Palma Serenity Hotel),
-  and promoting wine tasting experiences at a rural winery hotel (Vineyard Vista Boutique Hotel).
+  It covers offering family-oriented upsells at a beach resort (Sunny Shores Resort), creating spa packages at an adults-only city hotel (Palma Serenity Boutique Hotel),
+  and promoting wine tasting experiences at a rural winery hotel (Vineyard Vista Hotel).
 created_by: m3diterraneo_hotels_team
 seed_examples:
   - question: |
@@ -19,7 +19,7 @@ seed_examples:
       Mention that the gear can be delivered to their room or even to the beach.
       Staff can highlight that this is a way of making their stay more sustainable, by reducing environmental impact.
   - question: |
-      How can we create an appealing **spa package** at the adults-only Palma Serenity Hotel?
+      How can we create an appealing **spa package** at the adults-only Palma Serenity Boutique Hotel?
     answer: |
       Design a spa package that combines our most popular wellness services, such including a 60-minute couples massage, a private sauna session, and a rooftop yoga class at sunset.
       Mention that the rooftop has direct view of the city skyline and the sea.
@@ -33,7 +33,7 @@ seed_examples:
       Place attractive flyers in rooms and the lobby, highlighting the package's inclusions (massage, sauna, etc.) and the limited-time pricing.
       If possible, offer a brief **complimentary teaser** (like a 5-minute chair massage sample at check-in or during happy hour) to pique interest and encourage full package bookings.
   - question: |
-      What is an effective way for the Vineyard Vista Boutique Hotel to **promote its wine tasting experience** to guests?
+      What is an effective way for the Vineyard Vista Hotel to **promote its wine tasting experience** to guests?
     answer: |
       Leverage the hotel's unique setting by inviting guests to an **on-site evening wine tasting** in the estate's own vineyard or cellar.
       Upon guest arrival or at the welcome orientation, describe the experience: tasting **local Mediterranean wines** produced right at the hotel, paired with artisanal cheeses.
