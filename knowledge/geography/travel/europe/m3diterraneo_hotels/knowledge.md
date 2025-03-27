@@ -16,7 +16,7 @@ Mallorca's tourism industry is highly seasonal, with clear high and low periods 
 However, high season also results in high visitor pressure on local infrastructure and services, including increased traffic congestion, parking challenges, and overcrowding at beaches. Recent years have seen increased heat waves too and protests against overtourism.
 These drawbacks might lead some visitors to prefer other seasons.
 
-- **Shoulder Seasons (March - May & September - October):** Spring and early fall bring milder weather and a mix of travelers (including cyclists, hikers, and older couples). Demand is moderate: by Easter (often in March-April) around 80% of hotels are open, rising to full operation by May-June. Those initial months of the season are popular among 60+ Spanish travelers who book affordable and popular trips, which are cofinanced by the "IMSERSO" (Spanish government agency for the elderly). In September and October, the crowds soften but the weather and the sea remain warm, and the island is less crowded. Hotels may offer special packages or slightly lower rates to attract off-peak travelers during these periods. This season typically ends on October 31st, with many coastal resorts closing exactly on November 1st.
+- **Shoulder Seasons (March - May & September - October):** Spring and early fall bring milder weather and a mix of travelers (including cyclists, hikers, and older couples). Demand is moderate: by Easter (often in March-April) around 80% of hotels are open, rising to full operation by May-June. Those initial months of the season are popular among 60+ Spanish travelers who book affordable and popular trips, which are cofinanced by the _IMSERSO (Spanish government agency for the elderly)_. In September and October, the crowds soften but the weather and the sea remain warm, and the island is less crowded. Hotels may offer special packages or slightly lower rates to attract off-peak travelers during these periods. This season typically ends on October 31st, with many coastal resorts closing exactly on November 1st.
 
 - **Off-Season (November - February):** The winter period sees a significant drop in tourism. Many resort hotels close for the season, especially in quieter coastal areas. Many related small business located at those areas also close, especially those not catering to locals. It's a time for rest, maintenance, renovations, and planning for the next season. It's common that only ~30% of hotels (primarily business and city hotels) remain open in February, gradually increasing to 50% by March. Palma city hotels and a few resorts stay open year-round, targeting local events, business or sports travelers, or long-stay retirees escaping colder climates. During Christmas and New Year's holidays, there is a minor uptick in visitors (e.g. for holiday markets or mild-winter getaways), but overall hotel occupancy in winter is low.
 
@@ -46,9 +46,11 @@ Each property in our hotel group offers tailored extra services and amenities th
 
 ### Sunny Shores Resort: Upsells and Amenities for Families
 
-Our family-oriented beach resort (located on a sandy bay ideal for kids) focuses on fun, convenience, and safety for guests with children. Popular offerings include:
+Our Sunny Shores family-oriented beach resort (located on a sandy bay ideal for kids) focuses on fun, convenience, and safety for guests with children. Popular offerings include:
 
 - **“Pirate Adventure” Children's Excursion:** A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It's a signature experience frequently promoted at check-in to families.
+This activity is held daily by five staff members, and has a maximum 10-child capacity to ensure proper supervision.
+Ages 5-12 are eligible.
 
 - **Beach Gear Rental Package:** On-site rental of umbrellas, beach chairs, snorkel sets and toys, available as a convenient package. Rather than packing bulky gear, families can rent a complete beach day kit. This not only generates extra revenue but also adds convenience for the guest. The resort often advertises bundle discounts (e.g. rent for 3 days, get the 4th free) to encourage uptake.
 
@@ -57,7 +59,7 @@ Kids Club & Babysitting services are aviailabe from 9AM to 5PM daily.
 
 ### Palma Serenity Boutique Hotel: Wellness and Cultural Experiences
 
-Our upscale adults-only hotel in Palma caters to couples and business travelers seeking relaxation and urban exploration. Key offerings include:
+Our adults-only Palma Serenity Boutique Hotel caters to couples and business travelers seeking relaxation and urban exploration. Key offerings include:
 
 - **Spa and Wellness Packages:** The hotel's small spa offers packages combining treatments like massages, and aromatherapy sessions. One signature bundle, the “City Serenity Package” includes a couples massage, access to the rooftop jacuzzi, and two complimentary cocktails at the sky lounge. Such packages are promoted upon check-in and via email to guests who book superior rooms or longer stays. The rooftop has direct views to the cathedral and the sea.
 
@@ -69,11 +71,13 @@ Our upscale adults-only hotel in Palma caters to couples and business travelers 
 
 ### Vineyard Vista Hotel: Local Wine and Nature Offerings
 
-Set in the countryside, next to vineyards and olive groves, our rural hotel offer guests an authentic taste of Mallorcan country life, with an emphasis on wine, nature, and sports.
+Set in the countryside, next to vineyards and olive groves, our Vineyard Vista Hotel offers guests an authentic taste of Mallorcan country life, with an emphasis on wine, nature, and sports.
 Exclusive offerings at these properties include:
 
 - **Wine Tastings and Vineyard Tours:** The Vineyard Vista Hotel has its own winery, and the top attraction is the evening wine tasting event. Guests tour the vineyard and cellar with our winemaker, then sample a selection of the estate's wines. The experience is paired with local cheeses, cured meats, and olive oil from nearby farms. It's scheduled several times a week and often bundled into stay packages for food and wine enthusiasts.
 The wine tasking event is held every Friday and Sunday, at 7.30PM, inside the winery.
+It's a 2-hour event with a 20-guest limit. To ensure a spot, guests should make a reservation in advance at the reception.
+
 
 - **Farm-to-Table Dining:** The hotel restaurant use products from our gardens and local farms. We offer a special farm-to-table dinner twice weekly, where the chef introduces each course. Guests can purchase a dining package that includes this special dinner plus a bottle of our wine. This not only delights gastronomes but also increases on-site spend.
 Guests can pick two Farm-to-Table modalities: regular and vegan.
