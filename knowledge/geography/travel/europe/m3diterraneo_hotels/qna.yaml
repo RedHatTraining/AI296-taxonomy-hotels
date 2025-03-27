@@ -45,13 +45,13 @@ seed_examples:
   - context: |
       Our Sunny Shores family-oriented beach resort (located on a sandy bay ideal for kids) focuses on fun, convenience, and safety for guests with children. Popular offerings include:
 
-      - **“Pirate Adventure” Children's Excursion:** A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It's a signature experience frequently promoted at check-in to families.
+      - **“Mini Mediterranean Pirates” Children's Excursion:** A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It's a signature experience frequently promoted at check-in to families.
       This activity is held daily by five staff members, and has a maximum 10-child capacity to ensure proper supervision.
       Ages 5-12 are eligible.
     questions_and_answers:
       - question: What unique activity does the Sunny Shores Resort offer for children, and how is it promoted?
-        answer: The Sunny Shores Resort offers the 'Pirate Adventure Excursion,' a supervised boat trip promoted to families at check-in as a signature activity.
-      - question: How does the Pirate Adventure Excursion enhance the guest experience for families?
+        answer: The Sunny Shores Resort offers the 'Mini Mediterranean Pirates' excursion, a supervised boat trip promoted to families at check-in as a signature activity.
+      - question: How does the 'Mini Mediterranean Pirates' excursion enhance the guest experience for families?
         answer: It provides an engaging and memorable experience for children, encouraging families to stay longer and participate in other activities, and giving parents some free time.
       - question: Are children correctly supervised?
         answer: Yes, the activity is held daily by five staff members, and has a maximum 10-child capacity to ensure proper supervision

@@ -6,7 +6,7 @@ task_description: |
 created_by: m3diterraneo_hotels_team
 seed_examples:
   - question: |
-      How should front desk staff at the Sunny Shores Resort offer the **pirate boat excursion** to guests with children?
+      How should front desk staff at the Sunny Shores Resort offer the “Mini Mediterranean Pirates” excursion to guests with children?
     answer: |
       Identify interested families during check-in or inquiries and mention the exclusive pirate-themed boat adventure tailored for kids.
       Emphasize how children (ages 5-12) get a fun, supervised boat trip while parents **enjoy free time**.

@@ -48,7 +48,7 @@ Each property in our hotel group offers tailored extra services and amenities th
 
 Our Sunny Shores family-oriented beach resort (located on a sandy bay ideal for kids) focuses on fun, convenience, and safety for guests with children. Popular offerings include:
 
-- **“Pirate Adventure” Children's Excursion:** A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It's a signature experience frequently promoted at check-in to families.
+- **“Mini Mediterranean Pirates” Children's Excursion:** A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It's a signature experience frequently promoted at check-in to families.
 This activity is held daily by five staff members, and has a maximum 10-child capacity to ensure proper supervision.
 Ages 5-12 are eligible.
 
