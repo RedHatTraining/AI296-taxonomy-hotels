@@ -92,7 +92,7 @@ The Vineyard Vista Hotel, in particular, is located at the heart of the **Serra 
 
 ### 1. Sunny Shores Resort
 - **Address**: Calle Cala Millor 123, Palmanova, Mallorca, Spain
-- **Contact**: Phone: +34 123 11 22 333 | Email: info@sunnyshellsresort.com | Website: www.sunnyshellsresort.com
+- **Contact**: Phone: +34 123 11 22 333 | Email: info@sunnyshores__resort.com | Website: www.sunnyshores__resort.com
 - **Opening Dates**: Easter to October 31
 
 ### 2. Palma Serenity Boutique Hotel
