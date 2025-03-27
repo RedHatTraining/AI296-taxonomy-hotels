@@ -10,20 +10,20 @@ seed_examples:
     answer: |
       Identify interested families during check-in or inquiries and mention the exclusive pirate-themed boat adventure tailored for kids.
       Emphasize how children (ages 5-12) get a fun, supervised boat trip while parents **enjoy free time**.
-      Staff should highlight that the excursion is a a special experience for young guests.
+      Staff should highlight that the excursion is a special experience for young guests.
       To close the upsell, **suggest booking immediately** to secure a spot (maximum capacity: 10 children) and mention any discount for booking the excursion early.
   - question: |
-      What are optimal ways to upsell **beach gear rentals** (like umbrellas and snorkel sets) to family guests at our resort?
+      What are optimal ways to upsell **beach gear rentals** (such as umbrellas and snorkel sets) to family guests at our resort?
     answer: |
       Before booking confirmation, inform guests that they can rent umbrellas, snorkels, and beach toys directly from the resort instead of bringing or buying them.
       Mention that the gear can be delivered to their room or even to the beach.
-      Mention the discount: rent for 3 days, get the 4th free
+      Mention the discount: rent for 3 days, get the 4th free.
       Staff can highlight that this is a way of making their stay more sustainable, by reducing environmental impact.
   - question: |
       How can we create an appealing **spa package** at the adults-only Palma Serenity Boutique Hotel?
     answer: |
-      Design a spa package that combines our most popular wellness services, such including a 60-minute couples massage, a private sauna session, and a rooftop yoga class at sunset (or sunrise).
-      Mention that the rooftop has direct view of the city skyline, the cathedral and the sea.
+      Design a spa package that combines our most popular wellness services, which could include a 60-minute couples massage, a private sauna session, and a rooftop yoga class at sunset (or sunrise).
+      Mention that the rooftop has a direct view of the city skyline, the cathedral, and the sea.
       Add special details, such as a welcome glass of champagne or fresh fruit platter.
       Offer a small discout for couples.
       Offer a special detox meal at "La Despensa" restaurant.
@@ -39,6 +39,6 @@ seed_examples:
     answer: |
       Leverage the hotel's unique setting by inviting guests to an **on-site evening wine tasting** in the estate's own vineyard or cellar.
       Upon guest arrival or at the welcome orientation, describe the experience: tasting **local Mediterranean wines** produced right at the hotel, paired with artisanal cheeses.
-      Emphasize that it's an exclusive offering only available to hotel guests, creating a sense of privilege.
+      Emphasize that it is an exclusive offering only available to hotel guests, creating a sense of privilege.
       Encourage sign-ups by noting the limited group size for an intimate atmosphere (only 20 guests) and perhaps offer a **small incentive**, such as a discount on bottle purchases for those who attend the tasting.
-      As well as the wine tasking at the winery, offer the possibility of the vineyard tour with views to the Serra the Tramuntama mountains (this can be paired with an outdoor activity, such as hiking)
+      As well as the wine tasting at the winery, offer the possibility of the vineyard tour with views to the Serra the Tramuntama mountains (this can be paired with an outdoor activity, such as hiking)
