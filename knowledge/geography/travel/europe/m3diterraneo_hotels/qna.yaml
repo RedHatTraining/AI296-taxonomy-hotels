@@ -87,21 +87,21 @@ seed_examples:
 
       ### 1. Sunny Shores Resort
       - **Address**: Calle Cala Millor 123, Palmanova, Mallorca, Spain
-      - **Contact**: Phone: +34 123 11 22 333 | Email: info@sunnyshores__resort.com | Website: www.sunnyshores__resort.com
+      - **Contact**: Phone: +34 123 11 22 333 | Email: info@sunnyshoresresort.example.com | Website: www.sunnyshoresresort.example.com
       - **Opening Dates**: Easter to October 31
 
       ### 2. Palma Serenity Boutique Hotel
       - **Address**: Carrer de la Reina 45, Palma de Mallorca, Spain
-      - **Contact**: Phone: +34 971 333 22 11 | Email: info@palmaserinityhotel.com | Website: www.palmaserinityhotel.com
+      - **Contact**: Phone: +34 971 333 22 11 | Email: info@palmaserinityhotel.example.com | Website: www.palmaserinityhotel.example.com
       - **Opening Dates**: Year-round
 
       ### 3. Vineyard Vista Hotel
       - **Address**: Carretera de Albacete 67, Esporles, Mallorca, Spain
-      - **Contact**: Phone: +34 971 222 22 333 | Email: info@vineyardvistahotel.com | Website: www.vineyardvistahotel.com
+      - **Contact**: Phone: +34 971 222 22 333 | Email: info@vineyardvistahotel.example.com | Website: www.vineyardvistahotel.example.com
       - **Opening Dates**: Year-round (excluding February)
     questions_and_answers:
       - question: What are the addresses and contact details of the Sunny Shores Resort?
-        answer: "The Sunny Shores Resort is located at Calle Cala Millor 123, Palmanova, Majorca, Spain. Contact details include Phone: +34 123 11 22 333, Email: info@sunnyshores__resort.com, and Website: www.sunnyshores__resort.com."
+        answer: "The Sunny Shores Resort is located at Calle Cala Millor 123, Palmanova, Majorca, Spain. Contact details include Phone: +34 123 11 22 333, Email: info@sunnyshoresresort.example.com, and Website: www.sunnyshoresresort.example.com."
       - question: When is the Vineyard Vista Hotel open, and why?
         answer: The Vineyard Vista Hotel is open all year-round excluding February, to accommodate varied travel patterns and only closing during one of the less demanded months.
       - question: How do the opening dates of our rural hotel align with seasonal tourism patterns?
@@ -111,7 +111,7 @@ seed_examples:
 document_outline: |
   Information on the M3diterranean Hotel group's seasonal trends, local events, and property-specific guest offerings, including addresses, contact details, and opening/closing dates.
 document:
-  repo: https://github.com/jramcast/taxonomy.git
+  repo: https://github.example.com/jramcast/taxonomy.git
   commit: jaime-hotel-scenario
   patterns:
     - knowledge/geography/travel/europe/m3diterraneo_hotels/knowledge.md

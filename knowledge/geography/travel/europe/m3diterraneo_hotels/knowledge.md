@@ -97,7 +97,7 @@ The Vineyard Vista Hotel, in particular, is located at the heart of the **Serra 
 - Check-in: 3:00 PM | Checkout: 12:00 PM
 - Pool (and pool bar): open daily from 10:00 AM to 8:00 PM
 - Family Buffet restaurant: Poolside, kid-friendly options available daily. Breakfast: 7:30 AM - 10:30 AM | Dinner: 6:30 PM - 9:30 PM
-
+- Daily Live show after dinner. 8:00 PM - 12:30 AM
 
 ### Palma Serenity Boutique Hotel
 - **Address**: Carrer de la Reina 45, Palma de Mallorca, Spain
@@ -106,7 +106,7 @@ The Vineyard Vista Hotel, in particular, is located at the heart of the **Serra 
 - Check-in: 3:00 PM | Checkout: 3:00 PM
 - Spa: Floor -1, open daily from 10:00 AM to 8:00 PM
 - Rooftop Bar: Floor 5, open daily from 10:00 AM till midnight
-- "La Despensa" Restaurant & Bar: Ground floor, serving Mallorcan fusion cuisine from 6:30 PM to 10:30 PM
+- "La Despensa" Restaurant & Bar: Ground floor, serving Mallorcan fusion cuisine from 6:30 PM to 10:30 PM. Breakfast buffet: 7:00 AM - 10:30 AM
 - Coworking lounge (1st floor). From open 9 AM - 9 PM with complimentary coffee and ergonomic seating.
 
 ### Vineyard Vista Hotel
