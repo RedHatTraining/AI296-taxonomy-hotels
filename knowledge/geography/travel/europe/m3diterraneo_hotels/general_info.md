@@ -47,13 +47,13 @@ Each property in our hotel group offers tailored extra services and amenities th
 
 Our Sunny Shores family-oriented beach resort (located on a sandy bay ideal for kids) focuses on fun, convenience, and safety for guests with children. Popular offerings include:
 
-* **“Mini Mediterranean Pirates” Children's Excursion:** A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It is a signature experience frequently promoted at check-in to families.
+* "Mini Mediterranean Pirates" Children's Excursion, A supervised pirate-themed boat trip for kids. Young guests dress up as pirates and enjoy a half-day sailing adventure with treasure hunts and games. This gives parents some free time while the children make lasting memories. It is a signature experience frequently promoted at check-in to families.
 This activity is held daily by five staff members, and has a maximum 10-child capacity to ensure proper supervision.
 Ages 5-12 are eligible.
 
-* **Beach Gear Rental Package:** On-site rental of umbrellas, beach chairs, snorkel sets and toys, available as a convenient package. Rather than packing bulky gear, families can rent a complete beach day kit. This not only generates extra revenue but also adds convenience for the guest. The resort often advertises bundle discounts (e.g. rent for 3 days, get the 4th free) to encourage uptake.
+* *Beach Gear Rental Package*: On-site rental of umbrellas, beach chairs, snorkel sets and toys, available as a convenient package. Rather than packing bulky gear, families can rent a complete beach day kit. This not only generates extra revenue but also adds convenience for the guest. The resort often advertises bundle discounts (e.g. rent for 3 days, get the 4th free) to encourage uptake.
 
-* **Kids Club & Babysitting Services:** A daily Kids Club offers activities like crafts, pool games and movies, supervised by trained staff. For more personalized care, private babysitting can be arranged throughout the day. These services are highlighted in the welcome brochure for parents who may want a relaxing dinner or free time while their children are entertained safely.
+* **Kids Club & Babysitting Services**: A daily Kids Club offers activities like crafts, pool games and movies, supervised by trained staff. For more personalized care, private babysitting can be arranged throughout the day. These services are highlighted in the welcome brochure for parents who may want a relaxing dinner or free time while their children are entertained safely.
 Kids Club & Babysitting services are aviailabe from 9AM to 5PM daily.
 
 ### Palma Serenity Boutique Hotel: Wellness and Cultural Experiences
