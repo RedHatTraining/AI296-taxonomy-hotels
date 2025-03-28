@@ -135,7 +135,7 @@ document_outline: |
 #   patterns:
 #     - knowledge/geography/travel/europe/m3diterraneo_hotels/general_info.md
 document:
-  repo: https://github.com/jramcast/taxonomy.git
-  commit: jaime-hotel-scenario
+  repo: https://github.com/RedHatTraining/AI296-apps.git
+  commit: main
   patterns:
-    - knowledge/geography/travel/europe/m3diterraneo_hotels/general_info.md
+    - scenarios/hotels/business_docs/general_info.md
