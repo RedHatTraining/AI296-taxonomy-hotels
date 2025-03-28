@@ -61,7 +61,7 @@ Kids Club & Babysitting services are aviailabe from 9AM to 5PM daily.
 
 Our adults-only Palma Serenity Boutique Hotel caters to couples and business travelers seeking relaxation and urban exploration. Key offerings include:
 
-- **Spa and Wellness Packages:** The hotel's small spa offers packages combining treatments suchas massages, and aromatherapy sessions. One signature bundle, the “City Serenity Package” includes a couples massage, access to the rooftop jacuzzi, and two complimentary cocktails at the sky lounge. Such packages are promoted upon check-in and via email to guests who book superior rooms or longer stays. The rooftop has direct views of the cathedral and the sea.
+- **Spa and Wellness Packages:** The hotel's small spa offers packages combining treatments suchas massages, and aromatherapy sessions. One signature bundle, the “City Serenity Package” includes a couples massage, access to the rooftop jacuzzi, and two complimentary cocktails at the sky lounge. Such packages are promoted upon check-in and via email to guests who book superior rooms or longer stays. The rooftop has direct views of the La Seu cathedral and the sea.
 
 - **Cultural and Nightlife Tours:** The hotel connects guests with the city's culture. We offer experiences such as guided walking tours of Palma's Old Town (Cathedral, Bellver Castle, Sa LLotja, Royal Palace of La Almudaina, art galleries, etc) and nightlife tours, including VIP entry to popular lounges. Guests can book these through at the reception or in advance, when booking their stay via the website. These tours often partner with local guides and are tailored to adult interests (history, culture, art, gastronomy).
 
