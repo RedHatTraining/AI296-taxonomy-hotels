@@ -129,13 +129,13 @@ seed_examples:
         answer: Visitors in Palma are more varied, including cultural-focused and business travellers. These guests visit the hotel at any time of the year.
 document_outline: |
   Information on the M3diterranean Hotel group's seasonal trends, local events, and property-specific guest offerings, including addresses, contact details, and opening/closing dates.
-document:
-  repo: file:///home/jairamir/dev/taxonomy
-  commit: jaime-hotel-scenario
-  patterns:
-    - knowledge/geography/travel/europe/m3diterraneo_hotels/general_info.pdf
 # document:
-#   repo: https://github.com/jramcast/taxonomy.git
+#   repo: file:///home/jairamir/dev/taxonomy
 #   commit: jaime-hotel-scenario
 #   patterns:
-#     - knowledge/geography/travel/europe/m3diterraneo_hotels/knowledge.md
+#     - knowledge/geography/travel/europe/m3diterraneo_hotels/general_info.md
+document:
+  repo: https://github.com/jramcast/taxonomy.git
+  commit: jaime-hotel-scenario
+  patterns:
+    - knowledge/geography/travel/europe/m3diterraneo_hotels/general_info.md
