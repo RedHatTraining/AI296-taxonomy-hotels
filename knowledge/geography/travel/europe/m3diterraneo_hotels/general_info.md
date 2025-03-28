@@ -1,8 +1,7 @@
 # M3diterraneo Hotels: General Information, Offerings, and Practices
 
 The **M3diterraneo Hotels** hotel group was established in 2011, and is based in the Mediterranean area, specifically in the Spanish island of Mallorca.
-We operate three distinct properties on the island, each catering to different guest needs: a family-friendly beach resort, an adults-only city boutique hotel in Palma, and a rural hotel with a working winery.
-All properties share a commitment to showcasing the best of Mediterranean and Spanish seasons, culture, and hospitality through unique offerings.
+We operate three distinct properties on the island, each catering to different guest needs: a family-friendly beach resort, an adults-only city boutique hotel in Palma, and a rural hotel with a working winery. All properties share a commitment to showcasing the best of Mediterranean and Spanish seasons, culture, and hospitality through unique offerings.
 
 * "Sunny Shores Resort" is a family 4-star resort in a southern coastal location of the island
 * "Palma Serenity Boutique Hotel" is a 5-star adults-only, urban hotel at the heart of Palma, the capital of the island
@@ -86,15 +85,12 @@ Exclusive offerings at these properties include:
 The wine tasking is held every Friday and Sunday, at 7.30PM, inside the winery.
 It's a 2-hour event with a 20-guest limit. To ensure a spot, guests should make a reservation in advance at the reception.
 
-
 * Farm-to-Table Dining: The hotel restaurant use products from our gardens and local farms. We offer a special farm-to-table dinner twice weekly, where the chef introduces each course. Guests can purchase a dining package that includes this special dinner plus a bottle of our wine. This not only delights gastronomes but also increases on-site spend.
 Guests can pick two Farm-to-Table modalities: regular and vegan.
 
-* Outdoor Activities: To take advantage of the scenic location, the hotels arrange guided nature hikes to nearby trails and cycling tours through the rural landscape (with bike rentals available). These can be booked as add-ons. In spring and fall, when weather is ideal, such activities are popular and are promoted in our pre-arrival emails to guests.
-Our hiking and cycling tours are led by our local partner, **Ramirez Bikes** (email: partners@ramirezbikesmallorca.example.com),
-The Vineyard Vista Hotel, in particular, is located at the heart of the **Serra de Tramuntana**, a mountain range that shapes the north-west of Mallorca, declared a World Heritage Site by UNESCO in 2011. The Serra offers breathtaking landscapes, cliffs and forests that merge with the sea, and picturesque villages.
+* Outdoor Activities: To take advantage of the scenic location, the hotels arrange guided nature hikes to nearby trails and cycling tours through the rural landscape (with bike rentals available). These can be booked as add-ons. In spring and fall, when weather is ideal, such activities are popular and are promoted in our pre-arrival emails to guests. Our hiking and cycling tours are led by our local partner, "Ramirez Bikes" (email: partners@ramirezbikesmallorca.example.com). The Vineyard Vista Hotel, in particular, is located at the heart of the "Serra de Tramuntana", a mountain range that shapes the north-west of Mallorca, declared a World Heritage Site by UNESCO in 2011. The Serra offers breathtaking landscapes, cliffs and forests that merge with the sea, and picturesque villages.
 
-* Workshops and Local Crafts: The hotel also offers small-group workshops (for a fee), such as olive oil tasting sessions, traditional Mallorcan cooking classes, or pottery making with a local artisan. These unique activities are available upon request by contacting our workshops department at [workshops@vineyardvistahotelmallorca.example.com](mailto:workshops@vineyardvistahotelmallorca.example.com), offering guests the chance to connect with Mallorca's heritage during their stay.
+* Workshops and Local Crafts: The hotel also offers small-group workshops (for a fee), such as olive oil tasting sessions, traditional Mallorcan cooking classes, or pottery making with a local artisan. These unique activities are available upon request by contacting our workshops department at workshops@vineyardvistahotelmallorca.example.com, offering guests the chance to connect with Mallorca's heritage during their stay.
 
 ## Hotel Details
 
