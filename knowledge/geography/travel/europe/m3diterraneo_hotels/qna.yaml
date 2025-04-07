@@ -12,13 +12,11 @@ seed_examples:
       school holidays and sun-seekers from across Europe come in search of sun,
       water sports, vibrant night life and of course, beaches. Most coastal
       areas, including Palmanova, Magaluf, Alcudia, El Arenal, and Soller, are
-      bustling with activity. Beaches are busy, many resorts offer all-inclusive
-      packages, operating at full staff and may require minimum stay lengths.
-      Rates are highest during these months due to demand. However, the high
-      season also results in high visitor pressure on local infrastructure and
-      services, including increased traffic congestion, parking challenges, and
-      overcrowding at beaches. Recent years have seen increased heat waves too
-      and protests against overtourism.
+      bustling with activity. Rates are highest during these months due to 
+      demand. However, the high season also results in high visitor pressure
+      on local infrastructure and services, including increased traffic 
+      congestion, parking challenges, and overcrowding at beaches. Recent
+      years have seen increased heat waves too and protests against overtourism.
       These drawbacks might lead some visitors to prefer other seasons.
 
       ### Shoulder Seasons (March - May & September - October)
@@ -38,8 +36,7 @@ seed_examples:
       The winter period sees a significant drop in tourism. Many resort hotels
       close for the season, especially in quieter coastal areas. Many related
       small businesses located in those areas also close, especially those not
-      catering to locals. It is a time for rest, maintenance, renovations, and
-      planning for the next season. Commonly, only ~30% of hotels (primarily
+      catering to locals. Commonly, only ~30% of hotels (primarily
       business and city hotels) remain open in February, gradually increasing
       to 50% by March. Palma city hotels and a few resorts stay open year-round,
       targeting local events, business or sports travelers, or long-stay
@@ -64,15 +61,14 @@ seed_examples:
           Urban hotels and some rural properties remain open, targeting locals
           and business travelers.
   - context: |
-      The Mediterranean area and Mallorca, in particular, hosts numerous events
+      Mallorca hosts numerous events
       and cultural festivals throughout the year, some of which create noticeable
       spikes in hotel bookings or influence guest preferences:
 
       ### Winter Festivities (December - January)
-      In the low season, a few events still attract guests. The Christmas
+      It is the the low season. The Christmas
       markets in Palma or other towns, such as Portals, and the Sant Sebastià
-      festival in January (Palma's patron saint, celebrated with city-wide
-      concerts and bonfires) bring a short-lived increase in city hotel bookings.
+      festival in January bring a short-lived increase in city hotel bookings.
       The **Sant Antoni festival** is the most popular across the locals
       and is celebrated with bonfires and barbecues at night. While these
       winter events don't compare to summer crowds, they do provide incentives
@@ -80,45 +76,40 @@ seed_examples:
       offers around them.
 
       ### Semana Santa (Easter, March/April)
-      Easter week features elaborate religious processions in Palma and other
-      towns.
-      While a worthy and popular tradition, the "Semana Santa" in the
+      The "Semana Santa" in the
       Mediterranean Spanish islands is less internationally recognized than
       the processions in other Spanish regions and cities, such as Seville or
-      Hellín. In general, visitors take advantage of their time off during
-      these days to seek their first opportunities for sun exposure, and many
+      Hellín. Visitors take advantage of their time off during
+      these days to seek their first opportunities for sun exposure. Many
       coastal resorts reopen in time to welcome Easter holiday travelers.
       Still, city hotels might see increased bookings during this period, as
       a result of some interest in the religious processions and cultural events.
       Easter celebrations are always accompanied by traditional fare such as
-      _panades_, _crespells_ and _robiols_. They are delicious morsels made
+      _panades_, _crespells_ and _robiols_, the delicious morsels made
       from recipes handed down through the generations.
 
       ### Midsummer Night (June 23)
       Celebrated with beach bonfires and fireworks during the Night of Midsummer,
-      this celebration draws crowds to the beaches on the eve of June 24. Many
-      locals participate in midnight swims and festivities. Beach resorts
+      this celebration draws crowds to the beaches on the eve of June 24. People
+      participate in midnight swims and festivities. Beach resorts
       around Palma Bay and Alcúdia often experience a surge in last-minute
-      bookings as visitors come to enjoy the seaside celebrations.
+      bookings.
 
       ### Summer Town Festivals (July - August)
-      Throughout summer, nearly every Mallorcan town has a patron saint
-      festival featuring parades, live music, and fireworks. Some examples
+      Some examples of summer town festivals
       include Festes Rei En Jaume in Cavlia (early September) and Sant Agustí
-      in Felanitx (late August). These events can fill up rural hotels and
-      inns near the festivities as domestic tourists and island residents attend
-      and stay overnight.
-      These festivals are popular among locals, and are a good chance for
+      in Felanitx (late August). These events can fill up rural hotels
+      near the festivities as domestic tourists and island residents attend
+      and stay overnight. These festivals are a good chance for
       visitors to experience authentic Mallorcan culture.
 
       ### Harvest & Autumn Events (September - October)
       Mallorca's autumn brings agricultural fairs and harvest festivals.
-      For example, each September, the Fiestas des Vermar mark the culmination
-      of the grape harvest season in Binissalem, with wine-tastings and even
+      Each September, the Fiestas des Vermar mark the culmination
+      of the grape harvest season in Binissalem, with wine-tastings and
       grape-stomping contests. Such events attract locals and wine enthusiasts
       and boost occupancy in rural hotels and agritourism stays in those
-      regions. Similarly, October's fairs, such as the _Dijous Bo_ one-day
-      fair/market in Inca, can draw visitors.
+      regions.
     questions_and_answers:
       - question: How does the Sant Joan festival influence hotel bookings in coastal areas?
         answer: |
